@@ -15,7 +15,7 @@ public class Maou {
 				break;
 			}
 		}
-		System.out.println("勇者は世界を救った");
+		System.out.println("勇者は世界を救わない");
 	}
 }
 
