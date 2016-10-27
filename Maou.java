@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Maou {
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
-		System.out.println("魔王に会いました");
+		System.out.println("勇者に会いました");
 
 		M m = new M();
 
@@ -15,7 +15,7 @@ public class Maou {
 				break;
 			}
 		}
-		System.out.println("勇者は世界を救った");
+		System.out.println("魔王は世界を救った");
 	}
 }
 
